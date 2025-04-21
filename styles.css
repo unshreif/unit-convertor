@@ -13,10 +13,22 @@
     --primary-color: #6d8dff;
     --secondary-color: #adb5bd;
     --background-color: #121212;
-    color: white;
+    --text-color: #ffffff; 
     --border-color: #343a40;
     --shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
     --hover-shadow: 0 10px 15px rgba(0, 0, 0, 0.3);
+}
+
+.dark-theme select {
+    color: var(--text-color); 
+    background-color: var(--background-color); 
+    border-color: var(--border-color); 
+}
+
+.dark-theme input {
+    background-color: var(--background-color); 
+    color: var(--text-color); 
+    border-color: var(--border-color); 
 }
 
 * {
