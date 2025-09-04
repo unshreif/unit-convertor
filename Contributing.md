@@ -1,4 +1,4 @@
-# Contributing to [unit-convertor]
+# Contributing to unit-convertor
 
 We are delighted that you're considering contributing to our project! Your contributions are invaluable in helping us improve and grow. Whether you're fixing bugs, adding new features, or enhancing documentation, your efforts are greatly appreciated.
 
